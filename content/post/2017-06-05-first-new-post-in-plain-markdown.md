@@ -7,4 +7,6 @@ categories: []
 tags: []
 ---
 
-Starting out
+Starting out, sometimes the best way to learn is by doing. 
+
+Building this blog has definitely been more work than antcipated.

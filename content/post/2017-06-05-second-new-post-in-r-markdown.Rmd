@@ -7,4 +7,5 @@ categories: []
 tags: []
 ---
 
-An R markdown file
+An R markdown file 
+Fun Fact: I have no idea what I'm doing 90% of the time. 
